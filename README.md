@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... html css js etc i wanna be a full stack dev :')
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... UHM HERE IS MY EMAIL aslera1557@gmail.com
-- 😄 Pronouns: ... HE
+- 😄 Pronouns: ... HE/HIM
 - ⚡ Fun fact: ... i love mashed potatoes
 
 <!---
